@@ -98,6 +98,3 @@ bin/grafana-tools bak /home/bak
     ```sh
     curl -H "Authorization: Bearer eyJrIjoiTEd4ZTJLV3JWVVEwQm1nNkFEbnRiSnNnbjRtV1hxT2siLxxxxx" http://10.100.0.23:3000/api/dashboards/home
     ```
-
-
-
